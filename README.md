@@ -1,7 +1,5 @@
 # **Lang-Mate**
 
-### **[Our Team Bio](https://github.com/GSG-G7/lang-mate/issues/1)**
-
 ## **Problem :**
 
 People can't find a native speaker to practice a language with.
